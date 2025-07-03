@@ -12,27 +12,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/accessories.jpg",
+//     image: "/portfolio-copy/assets/projects/accessories.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "C#",
-//         path: "/assets/logos/csharp.svg",
+//         path: "/portfolio-copy/assets/logos/csharp.svg",
 //       },
 //       {
 //         id: 2,
 //         name: ".Net",
-//         path: "/assets/logos/dotnet.svg",
+//         path: "/portfolio-copy/assets/logos/dotnet.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "Ef Core",
-//         path: "/assets/logos/efcore.png",
+//         path: "/portfolio-copy/assets/logos/efcore.png",
 //       },
 //       {
 //         id: 4,
 //         name: "TailwindCSS",
-//         path: "/assets/logos/tailwindcss.svg",
+//         path: "/portfolio-copy/assets/logos/tailwindcss.svg",
 //       },
 //     ],
 //   },
@@ -49,27 +49,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/auth-system.jpg",
+//     image: "/portfolio-copy/assets/projects/auth-system.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "Auth0",
-//         path: "/assets/logos/auth0.svg",
+//         path: "/portfolio-copy/assets/logos/auth0.svg",
 //       },
 //       {
 //         id: 2,
 //         name: "React",
-//         path: "/assets/logos/react.svg",
+//         path: "/portfolio-copy/assets/logos/react.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "SQLite",
-//         path: "/assets/logos/sqlite.svg",
+//         path: "/portfolio-copy/assets/logos/sqlite.svg",
 //       },
 //       {
 //         id: 4,
 //         name: "TailwindCSS",
-//         path: "/assets/logos/tailwindcss.svg",
+//         path: "/portfolio-copy/assets/logos/tailwindcss.svg",
 //       },
 //     ],
 //   },
@@ -86,27 +86,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/blazor-app.jpg",
+//     image: "/portfolio-copy/assets/projects/blazor-app.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "Blazor",
-//         path: "/assets/logos/blazor.svg",
+//         path: "/portfolio-copy/assets/logos/blazor.svg",
 //       },
 //       {
 //         id: 2,
 //         name: ".NET Core",
-//         path: "/assets/logos/dotnetcore.svg",
+//         path: "/portfolio-copy/assets/logos/dotnetcore.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "SQLite",
-//         path: "/assets/logos/sqlite.svg",
+//         path: "/portfolio-copy/assets/logos/sqlite.svg",
 //       },
 //       {
 //         id: 4,
 //         name: "TailwindCSS",
-//         path: "/assets/logos/tailwindcss.svg",
+//         path: "/portfolio-copy/assets/logos/tailwindcss.svg",
 //       },
 //     ],
 //   },
@@ -123,27 +123,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/game-engine.jpg",
+//     image: "/portfolio-copy/assets/projects/game-engine.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "C++",
-//         path: "/assets/logos/cplusplus.svg",
+//         path: "/portfolio-copy/assets/logos/cplusplus.svg",
 //       },
 //       {
 //         id: 2,
 //         name: "C#",
-//         path: "/assets/logos/csharp.svg",
+//         path: "/portfolio-copy/assets/logos/csharp.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "Git",
-//         path: "/assets/logos/git.svg",
+//         path: "/portfolio-copy/assets/logos/git.svg",
 //       },
 //       {
 //         id: 4,
 //         name: "Microsoft",
-//         path: "/assets/logos/microsoft.svg",
+//         path: "/portfolio-copy/assets/logos/microsoft.svg",
 //       },
 //     ],
 //   },
@@ -160,27 +160,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/wordpress-theme.jpg",
+//     image: "/portfolio-copy/assets/projects/wordpress-theme.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "WordPress",
-//         path: "/assets/logos/wordpress.svg",
+//         path: "/portfolio-copy/assets/logos/wordpress.svg",
 //       },
 //       {
 //         id: 2,
 //         name: "HTML5",
-//         path: "/assets/logos/html5.svg",
+//         path: "/portfolio-copy/assets/logos/html5.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "CSS3",
-//         path: "/assets/logos/css3.svg",
+//         path: "/portfolio-copy/assets/logos/css3.svg",
 //       },
 //       {
 //         id: 4,
 //         name: "Vite.js",
-//         path: "/assets/logos/vitejs.svg",
+//         path: "/portfolio-copy/assets/logos/vitejs.svg",
 //       },
 //     ],
 //   },
@@ -197,27 +197,27 @@
 //     ],
 //     href: "",
 //     logo: "",
-//     image: "/assets/projects/elearning.jpg",
+//     image: "/portfolio-copy/assets/projects/elearning.jpg",
 //     tags: [
 //       {
 //         id: 1,
 //         name: "Blazor",
-//         path: "/assets/logos/blazor.svg",
+//         path: "/portfolio-copy/assets/logos/blazor.svg",
 //       },
 //       {
 //         id: 2,
 //         name: "Azure",
-//         path: "/assets/logos/azure.svg",
+//         path: "/portfolio-copy/assets/logos/azure.svg",
 //       },
 //       {
 //         id: 3,
 //         name: "Stripe",
-//         path: "/assets/logos/stripe.svg",
+//         path: "/portfolio-copy/assets/logos/stripe.svg",
 //       },
 //       {
 //         id: 4,
 //         name: "TailwindCSS",
-//         path: "/assets/logos/tailwindcss.svg",
+//         path: "/portfolio-copy/assets/logos/tailwindcss.svg",
 //       },
 //     ],
 //   },
@@ -238,27 +238,27 @@ export const myProjects = [
     ],
     href: "https://sssrii.github.io/FoodDel/",
     logo: "",
-    image: "/assets/projects/new_accessories.png",
+    image: "/portfolio-copy/assets/projects/new_accessories.png",
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/assets/logos/html5.svg"
+        path: "/portfolio-copy/assets/logos/html5.svg"
       },
       {
         id: 2,
         name: "CSS",
-        path: "/assets/logos/css3.svg"
+        path: "/portfolio-copy/assets/logos/css3.svg"
       },
       {
         id: 3,
         name: "React JS",
-        path: "/assets/logos/react.svg"
+        path: "/portfolio-copy/assets/logos/react.svg"
       },
       {
         id: 4,
         name: "GitHub",
-        path: "/assets/logos/github.svg"
+        path: "/portfolio-copy/assets/logos/github.svg"
       }
     ]
   },
@@ -274,22 +274,22 @@ export const myProjects = [
     ],
     href: "https://sssrii.github.io/Expense-Tracker/",
     logo: "",
-    image: "/assets/projects/new_blazor-app.png",
+    image: "/portfolio-copy/assets/projects/new_blazor-app.png",
     tags: [
       {
         id: 1,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg"
+        path: "/portfolio-copy/assets/logos/javascript.svg"
       },
       {
         id: 2,
         name: "HTML",
-        path: "/assets/logos/html5.svg"
+        path: "/portfolio-copy/assets/logos/html5.svg"
       },
       {
         id: 3,
         name: "CSS",
-        path: "/assets/logos/css3.svg"
+        path: "/portfolio-copy/assets/logos/css3.svg"
       }
     ]
   },
@@ -305,22 +305,22 @@ export const myProjects = [
     ],
     href: "https://sssrii.github.io/Spin-to-win/",
     logo: "",
-    image: "/assets/projects/new_auth-system.png",
+    image: "/portfolio-copy/assets/projects/new_auth-system.png",
     tags: [
       {
         id: 1,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg"
+        path: "/portfolio-copy/assets/logos/javascript.svg"
       },
       {
         id: 2,
         name: "HTML",
-        path: "/assets/logos/html5.svg"
+        path: "/portfolio-copy/assets/logos/html5.svg"
       },
       {
         id: 3,
         name: "CSS",
-        path: "/assets/logos/css3.svg"
+        path: "/portfolio-copy/assets/logos/css3.svg"
       }
     ]
   },
@@ -336,27 +336,27 @@ export const myProjects = [
     ],
     href: "https://sssrii.github.io/Portfolio-/",
     logo: "",
-    image: "/assets/projects/portfolio.png",
+    image: "/portfolio-copy/assets/projects/portfolio.png",
     tags: [
       {
         id: 1,
         name: "React JS",
-        path: "/assets/logos/react.svg"
+        path: "/portfolio-copy/assets/logos/react.svg"
       },
       {
         id: 2,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg"
+        path: "/portfolio-copy/assets/logos/tailwindcss.svg"
       },
       {
         id: 3,
         name: "Vite",
-        path: "/assets/logos/vitejs.svg"
+        path: "/portfolio-copy/assets/logos/vitejs.svg"
       },
       {
         id: 4,
         name: "React Router",
-        path: "/assets/logos/react-router.svg"
+        path: "/portfolio-copy/assets/logos/react-router.svg"
       }
     ]
   }
@@ -372,19 +372,19 @@ export const mySocials = [
   {
     name: "Leetcode",
     href: "https://leetcode.com/problemset/",
-    icon: "/assets/socials/leetcode2.png",
+    icon: "/portfolio-copy/assets/socials/leetcode2.png",
     size: "w-24 h-8",
   },
   {
     name: "Linkedin",
     href: "https://linkedin.com/in/kajal-singh-b224b625a",
-    icon: "/assets/socials/linkedin1.png",
+    icon: "/portfolio-copy/assets/socials/linkedin1.png",
     size: "w-8 h-8",
   },
   {
     name: "GitHub",
     href: "https://github.com/Sssrii",
-    icon: "/assets/socials/github.png",
+    icon: "/portfolio-copy/assets/socials/github.png",
     size: "w-8 h-8",
   },
 ];

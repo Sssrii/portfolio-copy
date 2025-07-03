@@ -42,7 +42,7 @@ const ProjectDetails = ({
             {/* <a className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation">
               View Project{" "}
               
-              <img src="/assets/arrow-up.svg" className="w-4 h-4" alt="arrow" />
+              <img src="/portfolio-copy/assets/arrow-up.svg" className="w-4 h-4" alt="arrow" />
             </a> */}
 
             <a
@@ -52,7 +52,7 @@ const ProjectDetails = ({
   className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation text-white"
 >
   View Project
-  <img src="/assets/arrow-up.svg" className="w-4 h-4" alt="arrow" />
+  <img src="/portfolio-copy/assets/arrow-up.svg" className="w-4 h-4" alt="arrow" />
 </a>
 
 
